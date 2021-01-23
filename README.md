@@ -1,3 +1,1 @@
-### Hi there 👋
-
-Some information about me 🤔
+Some _very important_ information about me 🤔
